@@ -1,1 +1,1 @@
-alert('asdf');
+console.log($('.p-list__item'));
